@@ -1,4 +1,4 @@
-# Previsão-de-Churn: Dados de telecom.
+# Previsão de Churn: Dados de telecom.
 
 Previsão de churn a partir de um dataset de competição do Kaggle.  
 
